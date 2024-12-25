@@ -14,3 +14,4 @@
 console.log(typeof "Prince");
 console.log(typeof null);
 console.log(typeof undefined);
+console.log(typeof 123);
